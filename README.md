@@ -162,5 +162,4 @@ Add analytics tracking
 👩‍💻 Developed By
 
 Sweta Kumari
-B.Tech – Computer Science
 Frontend & Full Stack Developer
